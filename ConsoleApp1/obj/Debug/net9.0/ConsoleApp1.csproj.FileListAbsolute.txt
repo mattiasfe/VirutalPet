@@ -12,3 +12,4 @@ C:\Users\Greencom\Documents\skoleC#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref
 C:\Users\Greencom\Documents\skoleC#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\Greencom\Documents\skoleC#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Greencom\Documents\skoleC#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\Greencom\Documents\skoleC#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
